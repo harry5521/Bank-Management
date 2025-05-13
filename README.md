@@ -49,6 +49,7 @@ A feature-rich **Banking Management System** built using **C# (WinForms)** and *
 
 ## 🛢️ Database
 
+**Note:** MySQL script file is provided in **My_Sql Database Folder**
 - Integrated with **MySQL Database**
 - Designed with **Relational Database Concepts (RDBMS)**
 - Proper **foreign key constraints** between tables for:
@@ -67,7 +68,3 @@ A feature-rich **Banking Management System** built using **C# (WinForms)** and *
 | Backend      | C#                 |
 | Database     | MySQL              |
 | Architecture | Role-Based Access + RDBMS |
-
----
-
-## 📸 Screenshots (Optional)
