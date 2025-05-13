@@ -2,6 +2,8 @@
 
 A feature-rich **Banking Management System** built using **C# (WinForms)** and **MySQL**, designed with **role-based authentication** and **RDBMS concepts**. This project includes powerful admin tools for managing user accounts, transactions, and funds — and is structured for real-world banking operations.
 
+**Note:** I named this app to Bank Management but Before I was named it ATM_System so I used this name in many places like DB name or in code, so dont be confused OK.
+
 ---
 
 ## ✨ Key Features
