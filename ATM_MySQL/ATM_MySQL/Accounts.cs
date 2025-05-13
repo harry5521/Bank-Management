@@ -24,8 +24,8 @@ namespace ATM_MySQL
         private void button1_Click(object sender, EventArgs e)
         {
             // Load Data Button
-            string Tname = comboBox1.SelectedItem.ToString();
-            if(Tname == "")
+            string Tname = comboBox1.SelectedItem.ToString(); // Please Dont click on Load Data button with Empty selection. Select a table in above list then press Load data.
+            if(Tname == "")                                   // Remember, If you dont select table name so app will stuck.
             {
                 MessageBox.Show("Fill all fields");
             } else
